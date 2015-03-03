@@ -23,7 +23,6 @@
 ##3. 基础模版
 
 - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
-- [Modernizr](https://github.com/Modernizr/Modernizr)
 - [Normalize.css](https://github.com/necolas/normalize.css/)
 
 ##4. 排版
@@ -175,6 +174,7 @@
 ##17. 工具库
 
 - [underscore.js](https://github.com/jashkenas/underscore)
+- [Modernizr](https://github.com/Modernizr/Modernizr)
 
 ##18. 模板引擎
 
